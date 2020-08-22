@@ -19,7 +19,7 @@
 
     <cryptfiles>
         <include>
-            <file regex="\.(htm|html|js|css|map)$" />
+            <file regex="\.(js)$" />
         </include>
         <exclude>
         </exclude>
